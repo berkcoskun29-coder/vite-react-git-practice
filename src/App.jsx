@@ -15,7 +15,7 @@ function App() {
         <li>Build almak</li>
       </ul>
 
-      <button>Pratiği Başlat</button>
+      <button>Hotfix Başarılı</button>
     </div>
   )
 }
