@@ -20,6 +20,20 @@ If you are developing a production application, we recommend using TypeScript wi
 - İlk Vite React projesi oluşturuldu.
 - Goals section eklendi.
 - Production build başarıyla alındı.
+- v1.0.0 release tag’i oluşturuldu.
+
+### v1.0.1
+- Hotfix branch açıldı.
+- Buton yazısı düzeltildi.
+- Hotfix main branch’e merge edildi.
+- v1.0.1 hotfix tag’i oluşturuldu.
+- Hotfix develop branch’e geri merge edildi.
+## Release Notes
+
+### v1.0.0
+- İlk Vite React projesi oluşturuldu.
+- Goals section eklendi.
+- Production build başarıyla alındı.
 
 ### v1.0.1
 - Hotfix yapıldı.
