@@ -1,5 +1,5 @@
 import './App.css'
-
+<p>Aktif Sürüm: v1.2.0</p>
 function App() {
   return (
     <div>
